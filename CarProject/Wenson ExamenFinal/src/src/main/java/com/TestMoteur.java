@@ -1,4 +1,6 @@
-package Moteur;
+package com;
+
+import com.Automobile;
 
 public class TestMoteur {
 
@@ -11,10 +13,10 @@ public class TestMoteur {
       System.out.println(v8.getKilometrage());
       System.out.println(v8);
 
-      // Moteur v6 = new Moteur(6,120);
+      // com.Moteur v6 = new com.Moteur(6,120);
        //System.out.println(v6);
 
-       //Moteur copiev6 = new Moteur(v6);
+       //com.Moteur copiev6 = new com.Moteur(v6);
         //System.out.println(copiev6);
         //System.out.println(v8.equals(copiev6));
         //System.out.println(v6.equals(copiev6));

@@ -1,5 +1,4 @@
-package Moteur;
-
+package com;
 
 public abstract class Vehicule {
     protected String marque;

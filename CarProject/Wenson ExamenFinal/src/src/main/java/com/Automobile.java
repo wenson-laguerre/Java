@@ -1,4 +1,4 @@
-package Moteur;
+package com;
 
 public class Automobile extends Vehicule {
 
@@ -6,7 +6,7 @@ public class Automobile extends Vehicule {
    public Automobile(){
        super();
    }
-   public Automobile(String model,String marque,Moteur moteur){
+   public Automobile(String model, String marque, Moteur moteur){
        super(marque,moteur);
        this.model= model;
 
