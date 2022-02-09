@@ -7,9 +7,9 @@ public class TestMoteur {
         Moteur v8 = new Moteur();
        v8.setCylindre(8);
        v8.setKilometrage(160);
-      //System.out.println( v8.getCylindre());
-      //System.out.println(v8.getKilometrage());
-      //System.out.println(v8);
+      System.out.println( v8.getCylindre());
+      System.out.println(v8.getKilometrage());
+      System.out.println(v8);
 
       // Moteur v6 = new Moteur(6,120);
        //System.out.println(v6);
