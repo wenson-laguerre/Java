@@ -4,9 +4,9 @@ import java.util.*;
 
 public class Main {
 
-    public static String main(String[] args) {
-        static int[] element = new int[25];
-        static int nbr = 0;
+    public static void main(String[] args) {
+        int[] element = new int[25];
+         int nbr = 0;
 
         Scanner clavier = new Scanner(System.in);
         int tmp;
