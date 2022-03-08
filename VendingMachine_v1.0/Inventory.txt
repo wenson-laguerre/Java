@@ -1,0 +1,4 @@
+gummies::1.25::7
+snickers::1.50::3
+doritos::2.50::2
+pepsi::1.75::1
